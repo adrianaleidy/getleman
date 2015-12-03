@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'Open+Sans', sans-serif;
+}
+p
+{
+	font-family: 'Dosis', sans-serif;
+}
+.heder
+{
+	background: black;
+	width: 100%;
+}
+.heder h2
+{
+	float: left;
+}
+.menu
+{
+	
+	list-style: none;
+	
+}
+.menu li
+{
+display: inline-block;
+}
